@@ -20,7 +20,7 @@
 
 1. Run the project
 
-2. POST request `localhost:3000/v1/user/ with JSON body`{ "first_name": "Good", "last_name": "Joe", "email": "user.name@gmail.com", "password": "kalasupp1" }`
+2. POST request `localhost:3000/v1/user/` with JSON body`{ "first_name": "Good", "last_name": "Joe", "email": "user.name@gmail.com", "password": "kalasupp1" }`
 
 3. POST request `localhost:3000/v1/login` with JSON body `{ "email": "user.name@gmail.com", "password": "kalasupp1" }`
 
