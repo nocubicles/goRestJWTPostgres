@@ -16,6 +16,10 @@
 - REST API
 - Models
 
+### Architecture of the project
+
+[Read more about project setup and architecture](https://www.integrated.ee/posts/golang-boilerplate-rest-jwt-postgres/)
+
 ### How to create user and authenticate and access private route
 
 1. Run the project
